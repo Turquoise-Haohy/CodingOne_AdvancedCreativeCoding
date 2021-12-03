@@ -1,7 +1,8 @@
 # Amusement Park in Ruins
 ![park](park.png)
 
-Links to MIMIC: [AmusementParkinRuins](https://mimicproject.com/code/c380d551-f82d-32f8-87b0-5d4981d582be) 
+## Links to MIMIC: [AmusementParkinRuins](https://mimicproject.com/code/c380d551-f82d-32f8-87b0-5d4981d582be) 
+## Links to Video: [videoLink](https://youtu.be/DeTn-Yq-XAM)
 Building a weird 3d amusement park in the cyber world has long become my passion.
 I do not want it to be like what they are in the real commercial one, that cute and adorable.
 I want it to be present at some strange scenes, like the piece I am working on, on a ruins-like soil, in a immersive fog.
